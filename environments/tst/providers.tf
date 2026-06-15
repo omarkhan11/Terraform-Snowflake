@@ -8,10 +8,8 @@ terraform {
 }
 
 provider "snowflake" {
-  # We use your unique Organization-Account identifier string here
-  account  = "MSMMKSJ-JAC28390" 
-  user     = "OMARKHAN"
-  password = "Iloveruby123$$$" # Put your real secret password string inside the quotes
+  account  = var.snowflake_account
+  user     = var.snowflake_user
+  password = var.snowflake_password
   role     = "ACCOUNTADMIN"
 }
-
