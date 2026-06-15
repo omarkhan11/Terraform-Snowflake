@@ -2,8 +2,6 @@
 <img width="3392" height="1676" alt="image" src="https://github.com/user-attachments/assets/c425abec-8443-4454-a943-1717c1e730ba" />
 
 
-Snowflake Infrastructure Automation via Terraform
-Project Accomplishments Summary
 I successfully designed, built, and deployed a multi-environment Snowflake data platform entirely managed as code using Terraform.
 
 Here is exactly what was built and implemented:
