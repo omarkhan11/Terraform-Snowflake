@@ -1,4 +1,4 @@
-# terraform-snowflake-sandbox
+# terraform-snowflake
 <img width="3392" height="1676" alt="image" src="https://github.com/user-attachments/assets/c425abec-8443-4454-a943-1717c1e730ba" />
 
 
